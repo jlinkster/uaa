@@ -1,0 +1,39 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.jlinkster",
+      "nativeLanguage": "en"
+    },
+    "jhipsterVersion": "5.3.4",
+    "applicationType": "uaa",
+    "baseName": "uaa",
+    "packageName": "com.jlinkster",
+    "packageFolder": "com/jlinkster",
+    "serverPort": "9999",
+    "authenticationType": "uaa",
+    "cacheProvider": "hazelcast",
+    "enableHibernateCache": false,
+    "websocket": false,
+    "databaseType": "mongodb",
+    "devDatabaseType": "mongodb",
+    "prodDatabaseType": "mongodb",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": "eureka",
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "YTBkMDc1NTBjYjYxNGJlNGViODUxMTZjMDVmYzc4Njg2ZTM3Zjg3ZGIwZWExYTc0MGI5OTIzYTM1N2M3MmI3ZDBkN2ZiNWI5YmEyNDI5YTNlNGNhMTZhMjgzMDhkZjA2NDZhODZkOTkzYWM3Y2ExNDY0MzFlYTVjOTJkZTlhYjE=",
+    "enableTranslation": true,
+    "languages": [
+      "en"
+    ],
+    "testFrameworks": [
+      "gatling",
+      "cucumber"
+    ],
+    "jhiPrefix": "jhi",
+    "clientPackageManager": "npm",
+    "nativeLanguage": "en",
+    "skipClient": true
+  }
+}
